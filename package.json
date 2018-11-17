@@ -31,8 +31,7 @@
   },
   "scripts": {
     "postinstall": "npm run webpack",
-    "webpack": "./node_modules/webpack/bin/webpack.js",
-    "start": "parcel --https src/index.html"
+    "webpack": "./node_modules/webpack/bin/webpack.js"
   },
   "license": "MIT"
 }
